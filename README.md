@@ -9,3 +9,6 @@ Create a small set of web-based fitness applications to automate the boring stuf
 - [ ] Customizable Lifting Calculator ??
 - [ ] General Stats Tracker
 - [ ] Mobile Friendly Web Interface
+
+#### References:
+https://www.t-nation.com/workouts/531-how-to-build-pure-strength
