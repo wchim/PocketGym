@@ -1,4 +1,4 @@
-,member_id,first_name,last_name,body_weight,back_squat,bs:bw
-2,2,Vincent,Lee,158,305,1.93
-1,1,Wayne,Chim,152,255,1.68
-0,0,Ian,McNair,209,225,1.08
+member_id,first_name,last_name,body_weight,back_squat,bs:bw
+2,Vincent,Lee,158,305,1.93
+1,Wayne,Chim,152,255,1.68
+0,Ian,McNair,209,225,1.08
