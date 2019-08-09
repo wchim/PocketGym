@@ -12,8 +12,8 @@ Create a small set of web-based fitness applications to automate the boring stuf
 
 #### Next Steps
 - [ ] Data entry validation
-- [ ] Save statistics to a .csv
-- [ ] Build a ranking
+- [x] Save statistics to a .csv
+- [x] Build a ranking
 - [ ] Track weightlifting progression
 
 #### References:
