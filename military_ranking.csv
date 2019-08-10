@@ -1,5 +1,4 @@
 member_id,first_name,last_name,body_weight,military_press,mp:bw
-3,Test,Subject,185,150,0.81
 1,Wayne,Chim,152,115,0.76
 2,Vincent,Lee,158,120,0.76
 0,Ian,McNair,209,130,0.62
