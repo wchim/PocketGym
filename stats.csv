@@ -1,4 +1,5 @@
 member_id,first_name,last_name,height,body_weight,bench_press,deadlift,back_squat,military_press,last_update
-0,Ian,McNair,71,209,205,265,225,130,2019-08-09
-1,Wayne,Chim,70,152,185,300,255,115,2019-08-09
-2,Vincent,Lee,69,158,205,365,305,120,2019-08-09
+0,Ian,McNair,71,209,205,265,225,130,8/9/19
+1,Wayne,Chim,70,152,185,300,255,115,8/9/19
+2,Vincent,Lee,69,158,205,365,305,120,8/9/19
+3,Wayne,Chim,70,150,190,325,275,120,9/30/19
